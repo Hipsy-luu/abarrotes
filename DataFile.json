@@ -1,0 +1,722 @@
+[
+    {
+        "claveId": 0,
+        "descripcion": "Galletas",
+        "precio": 37.52,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 87,
+        "minExistencia": 77,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 1,
+        "descripcion": "Dulces y Chocolates",
+        "precio": 17.2,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 60,
+        "minExistencia": 33,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 2,
+        "descripcion": "Botanas y Fruta",
+        "precio": 24.99,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 8,
+        "minExistencia": 50,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 3,
+        "descripcion": "Salsas",
+        "precio": 34.7,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 85,
+        "minExistencia": 53,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 4,
+        "descripcion": "Aderezos",
+        "precio": 9.74,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 91,
+        "minExistencia": 58,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 5,
+        "descripcion": "Vinagre",
+        "precio": 31.4,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 26,
+        "minExistencia": 8,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 6,
+        "descripcion": "Harina",
+        "precio": 42.32,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 12,
+        "minExistencia": 95,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 7,
+        "descripcion": "Pastas",
+        "precio": 4.58,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 66,
+        "minExistencia": 79,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 8,
+        "descripcion": "Pan",
+        "precio": 11.77,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 52,
+        "minExistencia": 92,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 9,
+        "descripcion": "Tortillas",
+        "precio": 6.26,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 10,
+        "minExistencia": 27,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 10,
+        "descripcion": "Enlatados",
+        "precio": 50.59,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 9,
+        "minExistencia": 21,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 11,
+        "descripcion": "Alimentos Instantaneos",
+        "precio": 4.66,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 8,
+        "minExistencia": 83,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 12,
+        "descripcion": "Harina y Reposteria",
+        "precio": 38.12,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 33,
+        "minExistencia": 67,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 13,
+        "descripcion": "Especias",
+        "precio": 2.77,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 88,
+        "minExistencia": 15,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 14,
+        "descripcion": "Sazonadores",
+        "precio": 25.36,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 81,
+        "minExistencia": 89,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 15,
+        "descripcion": "Perro Alimentos",
+        "precio": 30.25,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 76,
+        "minExistencia": 55,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 16,
+        "descripcion": "Gato Alimentos",
+        "precio": 9.24,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 80,
+        "minExistencia": 44,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 17,
+        "descripcion": "Saborizantes",
+        "precio": 24.17,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 46,
+        "minExistencia": 80,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 18,
+        "descripcion": "Jarabes",
+        "precio": 38.69,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 4,
+        "minExistencia": 95,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 19,
+        "descripcion": "Arroz",
+        "precio": 21.69,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 12,
+        "minExistencia": 65,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 20,
+        "descripcion": "Frijol",
+        "precio": 33.58,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 12,
+        "minExistencia": 43,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 21,
+        "descripcion": "Semillas",
+        "precio": 8.48,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 97,
+        "minExistencia": 82,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 22,
+        "descripcion": "Cafe",
+        "precio": 44.43,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 78,
+        "minExistencia": 27,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 23,
+        "descripcion": "Te",
+        "precio": 28.62,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 48,
+        "minExistencia": 60,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 24,
+        "descripcion": "Cereales",
+        "precio": 43.3,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 78,
+        "minExistencia": 1,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 25,
+        "descripcion": "Barras",
+        "precio": 45.72,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 9,
+        "minExistencia": 10,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 26,
+        "descripcion": "Leche",
+        "precio": 5.74,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 12,
+        "minExistencia": 43,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 27,
+        "descripcion": "Aceites de Cocina",
+        "precio": 43.82,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 86,
+        "minExistencia": 3,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 28,
+        "descripcion": "Mermelada",
+        "precio": 18.14,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 64,
+        "minExistencia": 29,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 29,
+        "descripcion": "Miel",
+        "precio": 24.02,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 56,
+        "minExistencia": 69,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 30,
+        "descripcion": "Comida Oriental",
+        "precio": 32.7,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 24,
+        "minExistencia": 94,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 31,
+        "descripcion": "Ensalada",
+        "precio": 19.27,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 13,
+        "minExistencia": 18,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 32,
+        "descripcion": "Chiles",
+        "precio": 2.33,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 45,
+        "minExistencia": 64,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 33,
+        "descripcion": "Ajos",
+        "precio": 12.11,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 55,
+        "minExistencia": 45,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 34,
+        "descripcion": "Pimientos",
+        "precio": 48.67,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 38,
+        "minExistencia": 46,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 35,
+        "descripcion": "Aderezos",
+        "precio": 21.67,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 68,
+        "minExistencia": 30,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 36,
+        "descripcion": "Jugos Naturales",
+        "precio": 37.16,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 3,
+        "minExistencia": 4,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 37,
+        "descripcion": "Pepinos",
+        "precio": 50.97,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 91,
+        "minExistencia": 87,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 38,
+        "descripcion": "Zanahorias",
+        "precio": 1.94,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 24,
+        "minExistencia": 22,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 39,
+        "descripcion": "Jicamas",
+        "precio": 26.15,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 39,
+        "minExistencia": 13,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 40,
+        "descripcion": "Lechugas",
+        "precio": 45.93,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 64,
+        "minExistencia": 84,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 41,
+        "descripcion": "Espinacas",
+        "precio": 10.82,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 86,
+        "minExistencia": 2,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 42,
+        "descripcion": "Hojas Verdes",
+        "precio": 4.45,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 17,
+        "minExistencia": 71,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 43,
+        "descripcion": "Jitomates",
+        "precio": 24.74,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 66,
+        "minExistencia": 3,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 44,
+        "descripcion": "Aguacates",
+        "precio": 37.4,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 23,
+        "minExistencia": 90,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 45,
+        "descripcion": "Champiñones",
+        "precio": 27.74,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 33,
+        "minExistencia": 38,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 46,
+        "descripcion": "Brocolis",
+        "precio": 1.24,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 91,
+        "minExistencia": 8,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 47,
+        "descripcion": "Basicos",
+        "precio": 36.77,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 92,
+        "minExistencia": 59,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 48,
+        "descripcion": "Cebollas",
+        "precio": 12.05,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 15,
+        "minExistencia": 82,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 49,
+        "descripcion": "Papas",
+        "precio": 39.49,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 10,
+        "minExistencia": 88,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 50,
+        "descripcion": "Verduras",
+        "precio": 25.38,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 2,
+        "minExistencia": 59,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 51,
+        "descripcion": "Platanos",
+        "precio": 32.98,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 2,
+        "minExistencia": 47,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 52,
+        "descripcion": "Papayas",
+        "precio": 5.52,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 31,
+        "minExistencia": 29,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 53,
+        "descripcion": "Naranja",
+        "precio": 16.14,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 27,
+        "minExistencia": 50,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 54,
+        "descripcion": "Limon",
+        "precio": 24.56,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 6,
+        "minExistencia": 57,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 55,
+        "descripcion": "Fresas",
+        "precio": 28.87,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 82,
+        "minExistencia": 9,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 56,
+        "descripcion": "Frambuesas",
+        "precio": 10.61,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 43,
+        "minExistencia": 70,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 57,
+        "descripcion": "Moras",
+        "precio": 12.23,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 83,
+        "minExistencia": 57,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 58,
+        "descripcion": "Manzanas",
+        "precio": 43.32,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 36,
+        "minExistencia": 43,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 59,
+        "descripcion": "Peras",
+        "precio": 19.54,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 7,
+        "minExistencia": 42,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 60,
+        "descripcion": "Uvas",
+        "precio": 49.29,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 96,
+        "minExistencia": 37,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 61,
+        "descripcion": "Duraznos",
+        "precio": 30.94,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 52,
+        "minExistencia": 59,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 62,
+        "descripcion": "Ciruelas",
+        "precio": 31.21,
+        "clasificacion": "Pasillo 6",
+        "noExistencias": 71,
+        "minExistencia": 36,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 63,
+        "descripcion": "Carne de Res",
+        "precio": 38.18,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 18,
+        "minExistencia": 60,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 64,
+        "descripcion": "Cortes",
+        "precio": 34.01,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 34,
+        "minExistencia": 32,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 65,
+        "descripcion": "Carne de Res empacada",
+        "precio": 12.97,
+        "clasificacion": "Pasillo 4",
+        "noExistencias": 17,
+        "minExistencia": 6,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 66,
+        "descripcion": "Ternera",
+        "precio": 42.88,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 62,
+        "minExistencia": 27,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 67,
+        "descripcion": "Maiz Pozolero",
+        "precio": 16.82,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 52,
+        "minExistencia": 79,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 68,
+        "descripcion": "Soya Empacada",
+        "precio": 34.28,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 2,
+        "minExistencia": 59,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 69,
+        "descripcion": "Antojitos Empacados",
+        "precio": 49.98,
+        "clasificacion": "Pasillo 1",
+        "noExistencias": 31,
+        "minExistencia": 8,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 70,
+        "descripcion": "Carne Empacada",
+        "precio": 37.72,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 2,
+        "minExistencia": 56,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 71,
+        "descripcion": "Carne para Hamburzueza",
+        "precio": 38.8,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 52,
+        "minExistencia": 17,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 72,
+        "descripcion": "Chetos",
+        "precio": 50.33,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 73,
+        "minExistencia": 63,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 73,
+        "descripcion": "Doritos",
+        "precio": 14.43,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 32,
+        "minExistencia": 73,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 74,
+        "descripcion": "Sabritones",
+        "precio": 4.8,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 18,
+        "minExistencia": 97,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 75,
+        "descripcion": "Paquetaxo",
+        "precio": 11.41,
+        "clasificacion": "Pasillo 3",
+        "noExistencias": 74,
+        "minExistencia": 96,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 76,
+        "descripcion": "Coca Cola",
+        "precio": 39.11,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 83,
+        "minExistencia": 72,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 77,
+        "descripcion": "Pepsi",
+        "precio": 12.8,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 81,
+        "minExistencia": 41,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 78,
+        "descripcion": "Jabon para manos",
+        "precio": 43.13,
+        "clasificacion": "Pasillo 2",
+        "noExistencias": 96,
+        "minExistencia": 18,
+        "maxExistencia": 100
+    },
+    {
+        "claveId": 79,
+        "descripcion": "Papel de Baño",
+        "precio": 15,
+        "clasificacion": "Pasillo 5",
+        "noExistencias": 53,
+        "minExistencia": 64,
+        "maxExistencia": 100
+    }
+]
