@@ -31,6 +31,7 @@ function createReport1(dataListProducts){
             ListaFiltrada[index].maxExistencia+"\t"+
             ListaFiltrada[index].descripcion+"\n";
     }
+    reporte = reporte + "\n\t Total de resultados : "+ListaFiltrada.length;
     return reporte;
 }
 //"2) Número de productos con existencia menos a 15.\n"
@@ -51,6 +52,7 @@ function createReport2(dataListProducts){
             ListaFiltrada[index].maxExistencia+"\t"+
             ListaFiltrada[index].descripcion+"\n";
     }
+    reporte = reporte + "\n\t Total de resultados : "+ListaFiltrada.length;
     return reporte;
 }
 //"3) Lista de productos con la misma clasificación y precio mayor 15.50\n"
